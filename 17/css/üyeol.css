@@ -1,0 +1,71 @@
+.box1 {
+	position: absolute;
+	background-color : #b66b25;
+	width:500px;
+        height:70px;
+		top:120px;
+		left:400px;
+}
+.logo {
+	margin-top:5px;
+	margin-left:5px;
+	margin-bottom:5px;
+	
+}
+b
+{
+position: absolute;
+top:20px;
+left:210px;
+font-size:25px;
+color:#ddd169;
+}
+.uye
+{
+border:1px solid #ddd169;
+padding: 10px;
+width :478px;
+height:250px;
+background:#ddd169;
+Font:12px Arial, Tohoma;
+
+}
+
+
+.icon
+{
+float:right;
+padding:5px;
+margin-right:50px;
+
+}
+.text
+{
+margin-left:30px;
+
+}
+.text1
+{
+margin-left:45px;
+
+}
+.text2
+{
+margin-left:35px;
+
+}
+.buton
+{
+float:right;
+margin-right:20px;
+border:1px solid #b66b25;
+padding:10px 10px;
+background:#b66b25;
+color:white;
+font-weight:bold;
+text-decoration:none;
+}
+.tbn{
+	position: absolute;
+	left:50px;
+}

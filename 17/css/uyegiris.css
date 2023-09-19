@@ -1,0 +1,81 @@
+.box1 {
+	position: absolute;
+	background-color : #b66b25;
+	width:445px;
+        height:70px;
+		top:120px;
+		left:400px;
+}
+.logo {
+	margin-top:5px;
+	margin-left:5px;
+	margin-bottom:5px;
+	
+	
+}
+b
+{
+position: absolute;
+padding: 15px;
+margin-left:80px;
+font-size:25px;
+color:#ddd169;
+}
+.uye
+{
+border:1px solid #ddd169;
+padding: 20px;
+width :403px;
+height:150px;
+background:#ddd169;
+Font:12px Arial, Tohoma;
+position:absolute;
+left:0px;
+}
+
+
+.icon
+{
+float:right;
+padding:2px;
+margin-right:50px;
+
+}
+.text
+{
+margin-left:30px;
+
+}
+.text1
+{
+margin-left:45px;
+
+}
+.text2
+{
+margin-left:8px;
+
+}
+.buton
+{
+float:right;
+margin-right:30px;
+margin-top:20px;
+border:1px solid #b66b25;
+padding:5px 5px;
+background:#b66b25;
+color:#fff;
+font-weight:bold;
+text-decoration:none;
+}
+.buton1
+{
+float:right;
+margin-right:20px;
+margin-top:20px;
+border:1px solid #b66b25;
+padding:5px 5px;
+background:#b66b25;
+color:#fff;
+font-weight:bold;
+}
